@@ -1,0 +1,16 @@
+.cartPanel{
+    padding: 15px;
+    text-align: center;
+}
+
+.checkoutBtn{
+    background-color: rgb(27, 182, 27);
+    padding: 10px;
+    width: 50%;
+    border-radius: 10px;
+    color: white;
+    margin-top: 20px;
+    border:2px solid rgba(0, 0, 0, 0.452);
+    font-size: 1.2rem;
+    cursor: pointer;
+}
